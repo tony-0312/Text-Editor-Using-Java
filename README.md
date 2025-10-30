@@ -40,4 +40,25 @@ A simple Text Editor GUI Application built using **Java Swing** and **AWT** that
 3. Compile the code:
    ```bash
    javac TextEditor.java
+   ```
+4. Run the code:
+   ```bash
+   java TextEditor
+   ```
+---
 
+### 💻 Option 2: Using an IDE
+
+1. Open the project in IntelliJ IDEA, Eclipse, or NetBeans.
+2. Run the file TextEditor.java as a Java Application.
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and personal use.
+
+---
+
+## 👨‍💻 Author
+
+Josh Tony Klement
