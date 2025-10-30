@@ -27,5 +27,17 @@ A simple Text Editor GUI Application built using **Java Swing** and **AWT** that
 
 ## 🖼️ Screenshots
 
-You can add screenshots by placing image files inside a folder (like `screenshots/`) and referencing them in markdown:
 ![App Screenshot 1](screenshots/Text%20Editor%20Overview.png)
+
+---
+
+## 🚀 How to Run
+
+### 🖥️ Option 1: Using Terminal / Command Prompt
+
+1. Make sure you have **Java JDK 8+** installed.  
+2. Open a terminal inside your project folder.  
+3. Compile the code:
+   ```bash
+   javac TextEditor.java
+
