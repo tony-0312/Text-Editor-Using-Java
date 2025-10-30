@@ -29,5 +29,4 @@ A simple Text Editor GUI Application built using **Java Swing** and **AWT** that
 
 You can add screenshots by placing image files inside a folder (like `screenshots/`) and referencing them in markdown:
 
-```markdown
 ![App Screenshot 1](screenshots/Text_Editor_Overview.png)
